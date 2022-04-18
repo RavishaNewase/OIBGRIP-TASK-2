@@ -1,0 +1,83 @@
+body{
+    background-color: #000b49;
+}
+.img-section{
+    
+    width : 40%;
+    margin-left: 40%;
+    margin-top: 50px;
+    border: none;
+    
+}
+.img-el{
+   
+    border: 5px solid rgba(255, 0, 0, 0.091);
+    border-radius: 30px;
+   height: 300px;
+}
+.name-el{
+    margin-left: -25px;
+    color: #E60965;
+    font-size: 50px;
+    font-weight: 800;
+}
+.bio-section{
+    width: 80%;
+    color: white;
+    margin-left: 13%;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+.events-header{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 40px;
+    color: #E60965; 
+}
+.events-section li{
+    color: white;
+    width: 60%;
+    margin-left: 20%;
+    font-size: 15px;
+    font-weight: 600;
+    list-style: disc;
+   
+    
+}
+.quotes-header{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 40px;
+    color: #E60965; 
+}
+.quotes-section p{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.more-info header{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 40px;
+    color: #E60965; 
+}
+.more-info p a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.more-info p {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.more-info p:hover {
+    text-decoration: underline;
+    font-size: 30px;
+}
